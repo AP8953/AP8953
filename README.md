@@ -18,7 +18,7 @@
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/AP8953)
 - 💬 Ask me about **Java, Spring Boot, Angular, SQL, and Full Stack Development**
 - 📫 Reach me at **apratap.iitp@gmail.com**
-- 📄 Check out my experiences in my [Resume](https://drive.google.com/file/d/1Lz1iBTPwFbcqguhblrXqH7IsSZji4ckf/view?usp=sharing)
+- 📄 Check out my experiences in my [Resume](https://drive.google.com/file/d/1Xzeu83cVgpeSBBLsPE0nV25H4s_BuE-b/view?usp=sharing)
 - ⚡ Fun fact: **I think solving bugs is more fun than creating new features!**
 
 ---
