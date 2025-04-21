@@ -19,7 +19,9 @@
 - 💬 Ask me about **Java, Spring Boot, Angular, SQL, and Full Stack Development**
 - 📫 Reach me at **apratap.iitp@gmail.com**
 - 📄 Check out my experiences in my [Resume](https://drive.google.com/file/d/1lQWyTxADccEtGp8Zqs2DedMrLjR8jfER/view?usp=sharing)
+- 🧠 Explore my [DSA Dashboard](https://codolio.com/profile/Reprogrammed_AP), where I visualize my problem-solving stats, most tackled topics, and weekly coding goals!
 - ⚡ Fun fact: **I think solving bugs is more fun than creating new features!**
+  
 
 ---
 
