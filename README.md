@@ -13,8 +13,9 @@
 
 ### 👨‍🎓 About Me
 
-- 🎓 I'm currently pursuing **MTech at IIT Patna (2023-25)**
-- 🌱 Learning **Advanced Java, Advanced Spring Boot, Spring AI, Docker, AWS, and Computer Vision**
+- 🎓 MTech in Mathematics & Computing from IIT Patna (2023–25)**
+- 💼 Backend Engineer with 2+ years of experience building scalable backend systems using Java, Spring Boot, and MySQL 
+- 🌱 Currently learning Advanced Java, Advanced Spring Boot, Spring AI, Quarkus, GCP and Kubernetes**
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/AP8953)
 - 💬 Ask me about **Java, Spring Boot, Angular, SQL, and Full Stack Development**
 - 📫 Reach me at **apratap.iitp@gmail.com**
