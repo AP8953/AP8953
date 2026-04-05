@@ -18,8 +18,8 @@
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/AP8953)
 - 💬 Ask me about **Java, Spring Boot, Angular, SQL, and Full Stack Development**
 - 📫 Reach me at **apratap.iitp@gmail.com**
-- 📄 Check out my experiences in my [Resume](https://drive.google.com/file/d/1iyTTfqr7p78P1xHvqIldMBijWYwiBzVc/view?usp=sharing)
-- 🧠 Explore my [DSA Dashboard](https://codolio.com/profile/Reprogrammed_AP), where I visualize my problem-solving stats, most tackled topics, and weekly coding goals!
+- 📄 Check out my experiences in my [Resume](https://drive.google.com/file/d/1g3v1IRBJiuA7A9Z7f0bF0N_6lUoQXGOE/view?usp=sharing)
+- 🧠 Explore my [DSA Dashboard](https://codolio.com/profile/Reprogrammed_AP), where I visualise my problem-solving stats, most tackled topics, and weekly coding goals!
 - ⚡ Fun fact: **I think solving bugs is more fun than creating new features!**
   
 
